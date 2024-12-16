@@ -1,0 +1,7 @@
+[package]
+name = "CASE"
+version = "0.1.0"
+edition = "2021"
+description = "а это описание моего крейта, он очень крутой"
+license = "MIT OR Apache-2.0"
+[dependencies]
